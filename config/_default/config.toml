@@ -1,7 +1,7 @@
 baseURL = "https://cmoor-student.github.io/portfolio/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Home"
+title = "C-MOOR Student"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
